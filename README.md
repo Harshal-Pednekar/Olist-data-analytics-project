@@ -275,7 +275,7 @@ The analysis highlights customer purchasing behaviour, payment preferences, deli
 
 Aspiring Data Analyst | MIS Executive | Business Intelligence Enthusiast
 
-- 💼 [LinkedIn](www.linkedin.com/in/harshal-pednekar-b59ba132b)
+- 💼 [LinkedIn](https://www.linkedin.com/in/harshal-pednekar-b59ba132b/)
 - 💻 [GitHub](https://github.com/Harshal-Pednekar)
 
 ---

@@ -20,14 +20,6 @@ The objective was to transform raw transactional data into meaningful business i
 
 ---
 
-# 👥 Project Team
-
-- Harshal Pednekar
-- Suhel Khan
-- Shraddha Kulkarni
-
----
-
 # 👨‍💻 My Contribution
 
 This project was completed as part of a **3-member internship team**. My contributions included:
@@ -61,7 +53,7 @@ The project aims to help business stakeholders:
 - Tables: 9 Relational Tables
 - Dataset Size: ~45 MB
 
-**Note:** The raw dataset is not included in this repository due to file size limitations.
+#### **Note:** The raw dataset is not included in this repository due to file size limitations.
 ---
 
 # 🛠 Tech Stack
@@ -175,13 +167,11 @@ Studied how delivery speed influences customer satisfaction.
 
 ![Power BI Executive Dashboard](dashboard-images/powerbi_overview_dashboard.png)
 
----
 
 ## 🚚 Power BI Dashboard – Logistics
 
 ![Power BI Logistics Dashboard](dashboard-images/powerbi_logistic_dashboard.png)
 
----
 
 ## ⭐ Power BI Dashboard – Customer Reviews & Quality Analysis
 
@@ -193,7 +183,6 @@ Studied how delivery speed influences customer satisfaction.
 
 ![Tableau Dashboard](dashboard-images/tableau_Executive_Overview_dashboard.png)
 
----
 
 ## 📉 Tableau Dashboard – Customer & Regional Analysis
 
